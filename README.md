@@ -2,7 +2,7 @@
 These bots were designed as upgrades from the first horizontal bots that I made. The bots below had various issues due to experimentation, but the goal of this repo is to document my robotics process. 
 
 MicroDrift v1:
-This bot was designed with UHMW as the wedge, which was not as effective as expected and resulted in a very inefficient chassis. The blade was also not as shattering as expected. 
+This bot was designed with UHMW as the wedge, which was not as effective as expected and resulted in a very inefficient chassis. The blade was also not as shattering as expected due to bad geometric design that failed to carry energy into its hits. 
 
 <img width="182" height="236" alt="Screenshot 2026-09-07 174523" src="https://github.com/user-attachments/assets/945cde63-a10b-4cf1-ad50-b8fa52f3f0ad" />
 <img width="281" height="279" alt="Screenshot 2026-09-07 174513" src="https://github.com/user-attachments/assets/59e0e462-e8ad-4419-ac8a-da0392766c34" />
